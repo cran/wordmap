@@ -1,0 +1,3 @@
+## Changes in v0.8.0
+
+* Create the wordmap package from the newsmap package v0.9.1.
