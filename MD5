@@ -1,11 +1,11 @@
-8517ff7ab95f716fb76b8ab1396f1390 *DESCRIPTION
+b688d46105b1941b670b99475964e9d1 *DESCRIPTION
 6918790a0df60fd55bd29a4ee6eafabf *LICENSE
 40e227f1ab7f0f19c1bf08d2a9796ede *NAMESPACE
-3396f70e43f63f15506d1876670f13f9 *NEWS.md
+a3276a6a6d54bbbd8148eb3c173db6d7 *NEWS.md
 92996df9b62f786fd40689b2f6d473e8 *R/data.R
 425c3d66164b4ea1aa7a5916cab7238b *R/predict.R
 73f71023f456d0cdc5939aa1dd45e642 *R/textmodel-methods.R
-a65313e1f8269214e3a0b644ca7cd5db *R/textmodel.R
+e0cdbcdd54f01db9e62efb56ff520d26 *R/textmodel.R
 841cbcabf28d00db0f3ef05e3dd7b4b5 *R/textplot.R
 908258afe8365ffca7da04eeb7874b72 *R/utils.R
 89559905f41f5d5eedd8195bf71ac459 *data/data_corpus_ungd2017.RData
@@ -33,5 +33,5 @@ a24164f10c97b981a52c3feb740ce227 *man/textplot_terms.Rd
 332173f20d20942c02019350ea4dcadc *tests/spelling.R
 2769563e9abcc6a7bf063a629c26cdb6 *tests/testthat.R
 3ee1ca573cab923279a933af39397ca0 *tests/testthat/test-predict.R
-40ee543abb95f8b9698a4178c523a860 *tests/testthat/test-textmodel.R
+93c8ec070a2d195d7792148e814c4ea3 *tests/testthat/test-textmodel.R
 9606dbfa3ffbb9515182f43494fd2ea6 *tests/testthat/test-textplot.R

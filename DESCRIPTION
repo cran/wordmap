@@ -1,7 +1,7 @@
 Package: wordmap
 Type: Package
 Title: Feature Extraction and Document Classification with Noisy Labels
-Version: 0.9.0
+Version: 0.9.1
 Authors@R: c(person("Kohei", "Watanabe", email = "watanabe.kohei@gmail.com", role = c("aut", "cre", "cph")))
 Maintainer: Kohei Watanabe <watanabe.kohei@gmail.com>
 Description: Extract features and classify documents with noisy labels given by document-meta data or keyword matching Watanabe & Zhou (2020) <doi:10.1177/0894439320907027>.
@@ -16,7 +16,7 @@ Suggests: spelling, testthat
 Language: en-US
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-09-05 06:28:35 UTC; watan
+Packaged: 2024-10-20 23:36:03 UTC; watan
 Author: Kohei Watanabe [aut, cre, cph]
 Repository: CRAN
-Date/Publication: 2024-09-05 08:40:02 UTC
+Date/Publication: 2024-10-21 00:00:02 UTC
