@@ -1,7 +1,7 @@
-43a6baa16d372246cf8b24d8cf2d5aab *DESCRIPTION
+6bbec4cfd38c6c30038bea8affa7fb2c *DESCRIPTION
 6918790a0df60fd55bd29a4ee6eafabf *LICENSE
 40e227f1ab7f0f19c1bf08d2a9796ede *NAMESPACE
-c3c3dcc3851c28afcbae8a9355a3db6a *NEWS.md
+e24fbe1509d08be08e952e66e1b4b063 *NEWS.md
 92996df9b62f786fd40689b2f6d473e8 *R/data.R
 425c3d66164b4ea1aa7a5916cab7238b *R/predict.R
 73f71023f456d0cdc5939aa1dd45e642 *R/textmodel-methods.R
@@ -34,5 +34,5 @@ a24164f10c97b981a52c3feb740ce227 *man/textplot_terms.Rd
 2769563e9abcc6a7bf063a629c26cdb6 *tests/testthat.R
 e8eafde2a9ec8b9114d3068a337d5edf *tests/testthat/Rplots.pdf
 a0c4eac1904aa40681f9b5028cc10ce9 *tests/testthat/test-predict.R
-0ea9bcfb79b4691c35c567d38f302dc3 *tests/testthat/test-textmodel.R
+6e5c8af2baa3d222a2b8187dade0c82f *tests/testthat/test-textmodel.R
 bd8656ebae2f2474ab767f81dc34bebd *tests/testthat/test-textplot.R
